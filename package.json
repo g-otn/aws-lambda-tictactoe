@@ -1,0 +1,10 @@
+{
+  "name": "aws-lambda-tictactoe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tic-tac-toe-minimax": "^1.0.8"
+  }
+}
